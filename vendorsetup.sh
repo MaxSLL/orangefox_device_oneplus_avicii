@@ -77,5 +77,5 @@
 	export OF_CLOCK_POS=1
 	
 	# R11.1 Settings
-	export FOX_VERSION="R11.1_3"
+	export FOX_VERSION="R11.1_4"
 	export OF_MAINTAINER="Sreeshankar K"	  
