@@ -7,8 +7,6 @@ env:
     CR_NAME: orangefox
     USERNAME: Sanju0910
     USERMAIL: sreeshankar0910@gmail.com
-    DT_REPO: https://github.com/Sanju0910/orangefox_device_oneplus_avicii.git
-    DT_BRANCH: android-12.1
     FOX_VARIANT: FBEv2
     
 task:
