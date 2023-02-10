@@ -128,7 +128,7 @@ DEXPREOPT_GENERATE_APEX_IMAGE := true
 # Partitions that should be wiped under recovery 
 TARGET_RECOVERY_WIPE := $(DEVICE_PATH)/recovery/root/system/etc/recovery.wipe
 
-# FBEv1 or FBEv2 or OOS12?
+# FBEv1 or FBEv2?
 ifeq ($(FOX_VARIANT),FBEv2)
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/recovery-fbev2.fstab
 else
